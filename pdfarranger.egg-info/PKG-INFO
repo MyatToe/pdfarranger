@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: pdfarranger
+Version: 1.10.0
+Summary: A simple application for PDF Merging, Rearranging, and Splitting
+Home-page: https://github.com/pdfarranger/pdfarranger
+Author: Jerome Robert
+Author-email: jeromerobert@gmx.com
+License: GNU GPL-3
+Provides-Extra: image
+License-File: COPYING
